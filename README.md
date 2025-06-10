@@ -18,14 +18,14 @@ I'm a Network Engineer and Data Scientist focused on:
 
 ---
 
-## 📂 Other Work
-I also contributed to a research project hosted on **GitLab**:  
-**[LEGUWOI – Gunshot Wound Images](https://gitlab.com/lisa-unb/leguwoi)**  
-⚠️ *Contains real images of firearm injuries — may be sensitive for some viewers.*
-
----
-
 ## 📫 Contact
 - Email: brunoscholles98@gmail.com  
 - Phone/Whatsapp: +351 913 686 499  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-scholles/)
+
+---
+
+## 📂 Other Work
+I also contributed to a research project hosted on **GitLab**:  
+**[LEGUWOI – Gunshot Wound Images](https://gitlab.com/lisa-unb/leguwoi)**  
+⚠️ *Contains real images of firearm injuries — may be sensitive for some viewers.*
