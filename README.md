@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a network engineer and data scientist focused on:
+I'm a Network Engineer and Data Scientist focused on:
 
 - 🤖 Deep Learning (mainly with PyTorch)  
 - 🖼️ Computer Vision and Image Processing  
@@ -28,4 +28,4 @@ I'm a network engineer and data scientist focused on:
 ## 📫 Contact
 - 📧 brunoscholles98@gmail.com  
 - 📱 +351 913 686 499  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-scholles/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-scholles/)
