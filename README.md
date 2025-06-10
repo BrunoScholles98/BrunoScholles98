@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bruno Scholles
 
-<!--
-**BrunoScholles98/BrunoScholles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies I work with:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm a network engineer and data scientist focused on:
+
+- 🤖 Deep Learning (mainly with PyTorch)  
+- 🖼️ Computer Vision and Image Processing  
+- 🛠️ Large-Scale Data Engineering  
+
+---
+
+## 📂 Other Work
+📌 I also contribute to a research project hosted on **GitLab**:  
+**[LEGUWOI – Gunshot Wound Images](https://gitlab.com/lisa-unb/leguwoi)**  
+⚠️ *Contains real images of firearm injuries — may be sensitive for some viewers.*
+
+---
+
+## 📫 Contact
+- 📧 brunoscholles98@gmail.com  
+- 📱 +351 913 686 499  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-scholles/)
