@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruno Scholles
 
-## 🚀 Technologies I work with:
+## 👨‍💻 Technologies I work with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I'm a Network Engineer and Data Scientist focused on:
 
 - 🤖 Deep Learning (mainly with PyTorch)  
